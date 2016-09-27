@@ -1,0 +1,15 @@
+cappuccino: Sold 1, Expenses $1.56, Revenue $3.50, Profit $1.94
+espresso: Sold 2, Expenses $1.90, Revenue $3.00, Profit $1.10
+latte: Sold 3, Expenses $5.01, Revenue $11.25, Profit $6.24
+black tea: Sold 1, Expenses $0.35, Revenue $1.79, Profit $1.44
+herbal tea: Sold 2, Expenses $0.70, Revenue $4.18, Profit $3.48
+macchiato: Sold 3, Expenses $4.35, Revenue $8.25, Profit $3.90
+americano: Sold 1, Expenses $0.70, Revenue $2.65, Profit $1.95
+cold press: Sold 2, Expenses $1.00, Revenue $5.00, Profit $4.00
+hot chocolate: Sold 3, Expenses $1.95, Revenue $6.75, Profit $4.80
+coffee: Sold 1, Expenses $0.25, Revenue $1.65, Profit $1.40
+chai tea: Sold 2, Expenses $2.46, Revenue $7.00, Profit $4.54
+mocha: Sold 3, Expenses $4.35, Revenue $11.10, Profit $6.75
+Total expenses: $24.58
+Total revenue: $66.12
+Total profit: $41.54
